@@ -7,8 +7,9 @@
 
 访问路径：
 
-https://gcore.jsdelivr.net/gh/yanachen1314/cdn@1.1/test/z01.png
+https://gcore.jsdelivr.net/gh/yanachen1314/cdn@latest/js/test-cdn.js
 
-https://cdn.jsdelivr.net/gh/yanachen1314/cdn@1.1/test/z01.png
+https://cdn.jsdelivr.net/gh/yanachen1314/cdn@latest/js/test-cdn.js
 
-https://fastly.jsdelivr.net/gh/yanachen1314/cdn@1.1/test/z01.png
+https://fastly.jsdelivr.net/gh/yanachen1314/cdn@latest/js/test-cdn.js
+
