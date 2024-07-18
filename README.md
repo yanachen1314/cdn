@@ -1,10 +1,10 @@
 # 个人CDN
-## 使用方法：
+## （1）使用方法：
 
 将静态资源上传到GitHub后发布最新的release版本。
 
 
-## 访问路径：
+## （2）访问路径：
 
 https://gcore.jsdelivr.net/gh/yanachen1314/cdn@latest/js/test-cdn.js
 
